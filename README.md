@@ -1,8 +1,8 @@
 ## Steam Link on Raspberry Pi with autostart
 
-Setting up steam link on my raspi. 
+Setting up steam link on my raspi. Tested in January 2025 on my raspberry model 4 with Raspbian 64 bit (Bookworm).
 
-Tested in January 2025 on my raspberry model 4 with Raspbian 64 bit (Bookworm)
+## Setup
 
 1. Install Raspbian with Raspberry Pi Imager
 
@@ -19,7 +19,7 @@ That's it. You can start it with `steamlink` from console. There should also be 
 
 3. Autostarting steamlink on boot
 
-This one was a bit frustrating and tricky. Because I want to use my raspi like a gaming console on my living room TV, this part was pretty crucial. Having a keyboard connected to my pi and to starting steamlink manually isn't the ideal experience for this setup.
+This one was a bit frustrating and tricky. Because I want to use my raspi like a gaming console on my living room TV, this part was pretty crucial. Having a keyboard connected to my pi and starting steamlink manually isn't the ideal experience for this setup.
 
 Unfortunately, most solutions I found online were outdated and didn't work for me.
 
